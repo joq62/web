@@ -1,0 +1,2 @@
+{port, 1234}.
+{service, resource_cluster_agent,   password, "qwerty",     mfa, mod_resource_cluster_agent,   run, []}.
